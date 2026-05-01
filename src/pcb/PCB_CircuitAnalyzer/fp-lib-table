@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Socket")(type "KiCad")(uri "${KIPRJMOD}/Socket.pretty")(options "")(descr ""))
+)
